@@ -1,4 +1,4 @@
-# AutomationPratice-
+# AutomationPratice
 DBServer test
 
 ### 1. Fork this repo
